@@ -35,9 +35,10 @@ Green Pastures helps Farmers, Consumers & Researchers in the following way:
 7. Farmers & Researchers can study the current & Historical trends, and thereby predict future trends
 
 To Install the Application:
-1. Please install Free Data Visualization Tool - Qlik Sense Desktop from http://www.qlik.com/try-or-buy/download-qlik-sense after registration 
+
+1. Please install Free Data Visualization Tool - Qlik Sense Desktop from [QlikSense WebSite](http://www.qlik.com/try-or-buy/download-qlik-sense) after registration 
 2. Copy the uploaded file "Green Pastures.qvf" to the QlikSense Home directory, typically, C:\Users\<youruser>\Documents\Qlik\Sense\Apps\
-3. Open Qlik Sense Desktop. Go to Desktop Hub. Green Pastures will be available. Click on it. After that, explore the App! Sample Steps are provided in the Video: https://www.youtube.com/watch?v=A6lGDl3NjAU
+3. Open Qlik Sense Desktop. Go to Desktop Hub. Green Pastures will be available. Click on it. After that, explore the App! Sample Steps are provided in the Video: [YouTube](https://www.youtube.com/watch?v=A6lGDl3NjAU)
 
 In order to update data, open the Data Load Editor and edit the below Libraries, which are mapped in the Data Folder in the GIT:
 1. Big Data (stores the KML for states)
